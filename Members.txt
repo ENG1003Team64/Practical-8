@@ -7,3 +7,5 @@ MEMBER 2 Siriluck Ovenden
 MEMBER 3 Donghyeon Kim
  
 MEMBER 4 Mattew Drakos 
+	Role in Project: great humour and good value
+	Preferred branch of engineering: Software of course!
