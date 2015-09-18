@@ -1,6 +1,8 @@
 LIST OF MEMBERS FOR TEAM 64
  
 MEMBER 1 Manjitha Wijesinghe
+         Role in Project: yes
+         Preferred branch of Engineering : yes
  
 MEMBER 2 Siriluck Ovenden 
  
